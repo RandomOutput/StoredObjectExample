@@ -1,5 +1,6 @@
 /*
- * Sifteo SDK Example.
+ * Sifteo StoredObject Exampe
+ * Details Here: https://developers.sifteo.com/docs/SifteoSDK/1.0.0/class_sifteo_1_1_stored_object.html#a42b814d79fdd03a479dc0ff4b0d47dba
  */
 
 #include <sifteo.h>
